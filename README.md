@@ -1,6 +1,6 @@
 ## About me
 
-- 🔭 I’m currently working on Kakaku.com, Inc. as a frontend engineer developing [tabelog.com](https://tabelog.com/)
+- 🔭 I’m currently working on Kakaku.com, Inc. as a SET and as a frontend engineer developing [tabelog.com](https://tabelog.com/)
 - 📫 How to reach me: 
   - email: hagevvashi@gmail.com
 
